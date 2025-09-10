@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Suprim%20Raja&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Suprim%20Raja&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I'm Suprim Raja  
 
