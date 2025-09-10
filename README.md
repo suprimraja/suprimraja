@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Suprim Raja  
 
-💻 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
+💻 **Web Dev | DSA | CS Undergrad**  
 ⚡ Passionate about building scalable applications, real-time systems, and exploring AI-driven solutions.  
 
 ---
@@ -13,8 +13,7 @@
 - 🎓 B.Tech CSE @ **Lovely Professional University** | CGPA: **7.40**  
 - 🏅 Dean’s **Top 10% student** for academics & extra-curriculars  
 - 💡 Solved **150+ problems** on LeetCode & CodeChef  
-- 🌱 Currently learning **Java, React, AI & Data Structures**  
-- ☕ Fun fact: I debug faster with coffee 😆  
+- 🌱 Currently learning **C++, React, AI & Data Structures**  
 
 ---
 
