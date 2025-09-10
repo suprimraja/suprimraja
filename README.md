@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  ![Header](./github-header-banner (1).png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Suprim%20Raja&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 # 👋 Hi, I'm Suprim Raja  
